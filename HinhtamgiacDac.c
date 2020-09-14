@@ -1,6 +1,7 @@
 #include <stdio.h>
 int g_size_1 = 0;
 
+// cmt nay de test chung nang cua branch
 
 void BuildHR(unsigned int l_var_1)    /* BuildHR = Build horizontal row */
 {
